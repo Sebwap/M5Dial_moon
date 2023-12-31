@@ -3,8 +3,8 @@ View lunar cycle on your M5Dial
 Also an option to view rotating earth
 
 ## Images thanks to NASA's Scientific Visualization Studio:
-Moon: https://svs.gsfc.nasa.gov/4310/
-Earth: https://svs.gsfc.nasa.gov/3639/
+- Moon: https://svs.gsfc.nasa.gov/4310/
+- Earth: https://svs.gsfc.nasa.gov/3639/
 
 Pictures have been resized to 240x240 px with Gimp, and I then keep only one over xxx to keep around 48 pictures for each animation, due to memory limitation on M5Dial.
 
