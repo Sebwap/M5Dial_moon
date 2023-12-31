@@ -2,6 +2,8 @@
 View lunar cycle on your M5Dial
 Also an option to view rotating earth
 
+See here a video: https://x.com/Seb____________/status/1739758588552217054?s=20
+
 ## Images thanks to NASA's Scientific Visualization Studio:
 - Moon: https://svs.gsfc.nasa.gov/4310/
 - Earth: https://svs.gsfc.nasa.gov/3639/
